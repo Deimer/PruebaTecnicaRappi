@@ -1,0 +1,31 @@
+<resources>
+    <string name="base_url">https://api.themoviedb.org</string>
+    <string name="base_url_image">https://image.tmdb.org/t/p/w500/</string>
+    <string name="base_url_youtube">https://www.youtube.com/watch?v=</string>
+    <string name="api_key">e9a82be60626ee6711ce17fe13f658c0</string>
+    <string name="key_youtube">AIzaSyBvZ896lnDarlItnthXn-Gt_srWF1BoQz0</string>
+    <string name="language_es">es-ES</string>
+    <string name="language_en">us-EN</string>
+
+    <string name="app_name">Prueba Tecnica Rappi</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="lbl_login">Login</string>
+    <string name="lbl_legend">Ingrese sus credenciales para continuar</string>
+
+    <string name="txt_email">Correo Electrónico</string>
+    <string name="txt_password">Contraseña</string>
+    <string name="title_activity_timeline">Timeline</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <string name="lbl_synopsis">Sinopsis</string>
+    <string name="lbl_date_release">Fecha</string>
+    <string name="lbl_homepage">Homapage</string>
+    <string name="lbl_genres">Generos</string>
+    <string name="lbl_seasons">Temporadas</string>
+    <string name="lbl_popularity">Popularidad</string>
+
+    <string name="lbl_title_dialog">Seleccione una Categoría</string>
+    <string name="but_cancel">Cancelar</string>
+    <string name="but_done">Seleccionar</string>
+</resources>
